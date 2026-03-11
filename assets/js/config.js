@@ -1,7 +1,7 @@
 // API Configuration
 const CONFIG = {
     // Replace this with your Google Apps Script Web App URL after deployment
-    API_BASE_URL: 'https://script.google.com/macros/s/AKfycbxSx3Yu_h2SGpombZb4onlIweByXtTGh8om679oPb7bTk9FoJBre-OdGEH896cStu1P2g/exec',
+    API_BASE_URL: 'https://script.google.com/macros/s/AKfycbxaKGXj1S1IIzEwarMQ-lU1WDPoKkcWr12XxxqWAUfuMFX-BYDXUJ4nQZ8lq6LLHLVySQ/exec',
 
 
     // Google OAuth Configuration
